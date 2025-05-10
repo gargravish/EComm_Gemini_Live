@@ -1,0 +1,18 @@
+flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
+google-generativeai==0.3.2
+google-cloud-texttospeech==2.14.1
+asyncio==3.4.3
+flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
+google-generativeai==0.3.2
+google-cloud-texttospeech==2.14.1
+asyncio==3.4.3
+google-cloud-bigquery==3.11.4
+google-cloud-storage==2.10.0
+vertexai==0.0.1
+pillow==10.0.0
+google-cloud-aiplatform==1.36.4
+# For backend tests, add: pytest, pytest-asyncio, etc. as needed

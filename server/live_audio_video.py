@@ -1,0 +1,1 @@
+# File no longer needed. Remove all code related to audio_chunk event and audio input handling. 

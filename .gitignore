@@ -1,0 +1,10 @@
+.env
+.env.*
+.DS_Store
+server/__pycache__/
+server/server.log
+client/.DS_Store
+client/node_modules/
+client/dist/
+client/.env
+client/.env.*
